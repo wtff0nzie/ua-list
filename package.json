@@ -14,16 +14,16 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/wtff0nzie/userAgent"
+        "url": "https://github.com/wtff0nzie/ua-list"
     },
     "license": "MIT",
     "readmeFilename": "readme.md",
     "bugs": {
-        "url": "https://github.com/wtff0nzie/userAgent/issues"
+        "url": "https://github.com/wtff0nzie/ua-list/issues"
     },
-    "homepage": "https://github.com/wtff0nzie/userAgent",
-    "main": "./useragents",
-    "version": "0.0.1",
+    "homepage": "https://github.com/wtff0nzie/ua-list",
+    "main": "./ua-list",
+    "version": "0.0.2",
     "engines": {
         "node": ">= 0.12"
     },
