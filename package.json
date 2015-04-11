@@ -1,0 +1,31 @@
+{
+    "name": "ua-list",
+    "description": "Randomly generate a user-agent string (no inherit evil included)",
+    "url": "https://github.com/wtff0nzie/userAgent",
+    "keywords": [
+        "user-agents",
+        "http",
+        "http1/1",
+        "request"
+    ],
+    "author": {
+        "name": "wtff0nzie",
+        "email": "stopbeing@deziddon.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wtff0nzie/userAgent"
+    },
+    "license": "MIT",
+    "readmeFilename": "readme.md",
+    "bugs": {
+        "url": "https://github.com/wtff0nzie/userAgent/issues"
+    },
+    "homepage": "https://github.com/wtff0nzie/userAgent",
+    "main": "./useragents",
+    "version": "0.0.1",
+    "engines": {
+        "node": ">= 0.12"
+    },
+    "dependencies": {}
+}
